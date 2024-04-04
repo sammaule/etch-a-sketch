@@ -3,10 +3,6 @@
     box-sizing: border-box;
 }
 
-.grid-item:hover, .hovered {
-    background-color: lightblue;
-}
-
 #grid-container {
     display: flex;
     flex-wrap: wrap;
